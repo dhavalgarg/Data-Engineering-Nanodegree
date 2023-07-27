@@ -24,8 +24,3 @@ Understand the big data ecosystem and how to use Spark to work with massive data
 Schedule, automate, and monitor data pipelines using Apache Airflow. Run data quality checks, track data lineage, and work with data pipelines in production.
 
 [DATA PIPELINES WITH AIRFLOW](https://github.com/manuel-lang/Udacity-Data-Engineering-Nanodegree/tree/master/Data%20Pipeline)
-
-### Capstone Project
-Combine what you've learned throughout the program to build your own data engineering portfolio project.
-
-[DATA ENGINEERING CAPSTONE](https://github.com/manuel-lang/Udacity-Data-Engineering-Nanodegree/tree/master/Capstone%20Project)
